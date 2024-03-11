@@ -10,16 +10,16 @@ else
 fi 
 
 
-if [ -d /tmp/serge1 ]
+if [ -d /tmp/alix1 ]
 
 then echo exist
 
 else
 
-mkdir /tmp/serge1
+mkdir /tmp/alix1
 
-echo new > /tmp/serge1/file
+echo new > /tmp/alix1/file
 
-cat /tmp/serge1/file
+cat /tmp/alix1/file
 
 fi
