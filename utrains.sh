@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-
 if  [ -f /etc/passwd ]
  then
   echo exit
